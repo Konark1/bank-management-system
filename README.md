@@ -48,8 +48,4 @@ Usage
 Contributing
 Contributions are welcome! Fork the repository and submit a pull request with your changes.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
-For queries or support, contact [Your Email or GitHub Profile].
